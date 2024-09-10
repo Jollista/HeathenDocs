@@ -14,6 +14,8 @@ kanban-plugin: board
 
 ## To-Do
 
+- [ ] Have first meeting
+- [ ] Fill in Core docs ([[Design Pillars]], [[Game Loops]], [[Player Motivation and Progression]])
 
 
 ## Backlog
