@@ -51,4 +51,5 @@ You can view your local changes by running
 Once you're ready to commit your changes, run
 > npx quartz sync
 
-testing merge conflicts??
+> [!NOTE]
+> `npx quartz sync` pulls from the remote repository then pushes. In order to push successfully to the remote repository you must be added as a collaborator (just ask me in discord and I'll add you).
