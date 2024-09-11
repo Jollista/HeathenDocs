@@ -5,7 +5,7 @@ This documentation was built using [Obsidian](https://obsidian.md/), a free note
 
 The documentation webpage was built using [Quartz 4.0](https://github.com/jackyzha0/quartz) which is an open-source project that transforms markdown content into functional static websites. The documentation for Quartz can be found here: https://quartz.jzhao.xyz/.
 # Usage
-In order to view the most up to date version of the documentation, simply visit [link to webpage goes here].
+In order to view the most up to date version of the documentation, simply visit https://jollista.github.io/HeathenDocs.
 
 In order to edit and create new docs, you will need to follow the installation guide below.
 # Installation
