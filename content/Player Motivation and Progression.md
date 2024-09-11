@@ -1,4 +1,4 @@
 ---
 tags:
-  - core
+  - Core
 ---

@@ -54,5 +54,5 @@ Once you're ready to commit your changes, run
 > [!NOTE]
 > `npx quartz sync` pulls from the remote repository then pushes. In order to push successfully to the remote repository you must be added as a collaborator (just ask me in discord and I'll add you).
 
-> [!IWARNING] Merge Conflicts
+> [!WARNING] Merge Conflicts
 > Be careful of merge conflicts since quartz can be finnicky about it, and it might overwrite some of your changes locally (they'll still be stored remotely, but they might be overwritten by a conflicting merge, so it's not destructive so much as it is just annoying, but still). Best practice is to make sure you always run `npx quartz sync` before and after making local changes and ensure you and your fellow collaborators aren't working on the same docs at the same time. I don't imagine this will cause many issues, but I figured it'd be best to put this note here as a warning just in case.

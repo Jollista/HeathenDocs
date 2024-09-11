@@ -7,6 +7,8 @@ kanban-plugin: board
 ## Complete
 
 **Complete**
+- [x] Test how Quartz handles merge conflicts
+- [x] Update install instructions in README
 - [x] Add documentation for [[PlayerLightAttackState]]
 - [x] Add documentation for player states
 - [x] Add [[Player (Class)]] documentation
@@ -19,12 +21,11 @@ kanban-plugin: board
 
 ## In Progress
 
+- [ ] Add better explanation of tag organization to [[index]]
 
 
 ## To-Do
 
-- [ ] Test how Quartz handles merge conflicts
-- [ ] Add better explanation of tag organization to [[index]]
 - [ ] Have first meeting
 - [ ] Fill in Core docs ([[Design Pillars]], [[Game Loops]], [[Player Motivation and Progression]])
 - [ ] Fill in Story docs ([[Characters]], [[Narrative Summary]], [[Level Summaries]])
