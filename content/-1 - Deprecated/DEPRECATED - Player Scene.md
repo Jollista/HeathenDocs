@@ -3,7 +3,7 @@ tags:
   - Player
   - DEPRECATED
 ---
-//This is a conversion of some old, disorganized documentation. The full original document can be found [here](https://docs.google.com/document/d/1-xWPC0GV3b-EhCuFb-PIVHam5nWAMFICwly4Hubqiq8/edit?usp=sharing) with comments included.
+//This is a conversion of some old, disorganized documentation. The full original document can be found [here](https://docs.google.com/document/d/1-xWPC0GV3b-EhCuFb-PIVHam5nWAMFICwly4Hubqiq8/edit?usp=sharing) with comments included. For an up-to-date cover of the Player, see [[Player (Scene)]].
 
 This document is so I and hopefully everyone else also will be able to understand what it is we’re doing in the code. Basically, this is to explain design and implementation stuff. Most of the detailed function explanations are written in natural language for ease of understanding.
   
