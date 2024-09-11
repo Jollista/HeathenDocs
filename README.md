@@ -10,10 +10,24 @@ In order to view the most up to date version of the documentation, simply visit 
 In order to edit and create new docs, you will need to follow the installation guide below.
 # Installation
 ## Dependencies
-- at least [Node](https://nodejs.org/en) v20
-- `npm` v9.3.1
+- [Node](https://nodejs.org/en) **v20** or higher
+- `npm` **v9.3.1** or higher
 
-Once all the dependencies are installed, simply pull the remote repository to a local repository, and that's it. If you're using [Obsidian](https://obsidian.md/), open the folder containing the repository as a vault.
+Once all the dependencies are installed, in your terminal of choice, enter the following commands:
+```
+//clone the remote repository
+git clone https://github.com/Jollista/HeathenDocs.git
+
+//move into the local repository
+cd HeathenDocs
+
+//install additional dependencies and set up quartz
+npm i
+npx quartz create
+npm audit fix
+```
+
+Finally, if you're using [Obsidian](https://obsidian.md/), open the folder containing the repository as a vault.
 ## Contribution
 ### How to Write Good Docs
 Watch [this video](https://youtu.be/ZE8v7uVGepM?si=0xRAmQpgEUBtHI2P). If you don't want to, here are some quick bits of advice from it:
