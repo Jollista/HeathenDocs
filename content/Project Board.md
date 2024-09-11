@@ -7,6 +7,7 @@ kanban-plugin: board
 ## Complete
 
 **Complete**
+- [x] Add better explanation of tag organization to [[index]]
 - [x] Test how Quartz handles merge conflicts
 - [x] Update install instructions in README
 - [x] Add documentation for [[PlayerLightAttackState]]
@@ -21,7 +22,6 @@ kanban-plugin: board
 
 ## In Progress
 
-- [ ] Add better explanation of tag organization to [[index]]
 
 
 ## To-Do
