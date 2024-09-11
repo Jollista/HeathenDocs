@@ -40,16 +40,16 @@ Watch [this video](https://youtu.be/ZE8v7uVGepM?si=0xRAmQpgEUBtHI2P). If you don
 Tags are a useful way to organize files other than just putting them in folders. Whenever you make a new doc, make sure it has the appropriate tags.
 ### Pictures
 If you're using Obsidian, linking to an image might mess up. As with WikiLinks, you should typically only use the name of the image you're linking to, or else Quartz might break and fail to render the image properly when it's public for everyone to see. So if Obsidian autofills an image link to something like 
-> \!\[\[public/0---Assets/image.png]]
+> `![[public/0---Assets/image.png]]`
 
 replace that stupid link with just 
-> \!\[\[image.png]].
+> `![[image.png]]`.
 ### Previewing and Pushing
 You can view your local changes by running
-> npx quartz build --serve
+> `npx quartz build --serve`
 
 Once you're ready to commit your changes, run
-> npx quartz sync
+> `npx quartz sync`
 
 > [!NOTE]
 > `npx quartz sync` pulls from the remote repository then pushes. In order to push successfully to the remote repository you must be added as a collaborator (just ask me in discord and I'll add you).
